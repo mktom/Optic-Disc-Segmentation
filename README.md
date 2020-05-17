@@ -11,5 +11,7 @@ python -m pip install -r requirements.txt
 
 ## Generated Results
 copy_images show the template matching before thresholding
+
 generated_masks show the final optic disc masks
+
 optic_windows show the neighbourhood identified for the optic disc
